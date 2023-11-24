@@ -1,4 +1,4 @@
-# Data Science Journey Repository
+# Data Science Journey
 
 Welcome to my Data Science journey repository! 🚀 In this space, I'm documenting my exciting transition into the world of Data Science through a series of mini projects and analysis. The primary focus of this repository is to showcase my exploration and learning process as I dive into various machine learning models and data modeling techniques.
 
